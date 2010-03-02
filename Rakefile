@@ -10,7 +10,7 @@ begin
     gem.email = "paul@rslw.com"
     gem.homepage = "http://github.com/paulca/paul-is-awesome"
     gem.authors = ["Paul Campbell"]
-    gem.version "1.0.0"
+    gem.version = "1.0.0"
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end
   Jeweler::GemcutterTasks.new
