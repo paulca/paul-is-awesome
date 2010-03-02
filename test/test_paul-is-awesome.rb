@@ -1,7 +1,7 @@
 require 'helper'
 
 class TestPaulIsAwesome < Test::Unit::TestCase
-  should "probably rename this file and start testing for real" do
-    flunk "hey buddy, you should probably rename this file and start testing for real"
+  def test_for_awesomeness
+    assert_equal(Paul.awesome?, true)
   end
 end
