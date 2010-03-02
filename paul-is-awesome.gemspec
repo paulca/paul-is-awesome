@@ -5,12 +5,12 @@
 
 Gem::Specification.new do |s|
   s.name = %q{paul-is-awesome}
-  s.version = ""
+  s.version = "1.0.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Paul Campbell"]
   s.date = %q{2010-03-02}
-  s.description = %q{TODO: longer description of your gem}
+  s.description = %q{Awesomer, right?}
   s.email = %q{paul@rslw.com}
   s.extra_rdoc_files = [
     "LICENSE",
@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
      "Rakefile",
      "lib/paul-is-awesome.rb",
      "lib/paul.rb",
+     "paul-is-awesome.gemspec",
      "test/helper.rb",
      "test/test_paul-is-awesome.rb"
   ]
@@ -31,7 +32,7 @@ Gem::Specification.new do |s|
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.6}
-  s.summary = %q{TODO: one-line summary of your gem}
+  s.summary = %q{Awesome, right?}
   s.test_files = [
     "test/helper.rb",
      "test/test_paul-is-awesome.rb"
