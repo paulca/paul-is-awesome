@@ -1,6 +1,26 @@
 = paul-is-awesome
 
-Description goes here.
+Paul is awesome is a lightweight self help motivational tool.
+
+== Installation
+
+  gem install paul-is-awesome
+  
+== Usage
+
+If your name is Paul:
+
+  Paul.awesome?
+  
+Otherwise:
+  
+  You.awesome?
+  
+That's it! If you want a grim reminder to bring you back down to earth, try this:
+
+  Death.iminent?
+  
+That should keep you in check. Have fun!
 
 == Note on Patches/Pull Requests
  
