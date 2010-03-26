@@ -10,6 +10,6 @@ class TestPaulIsAwesome < Test::Unit::TestCase
   end
   
   def test_iminence_of_death
-    assert Death.iminent?
+    assert Death.imminent?
   end
 end

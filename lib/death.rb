@@ -1,6 +1,6 @@
 class Death
   class << self
-    def iminent?
+    def imminent?
       Paul.awesome?
     end
   end

@@ -18,7 +18,7 @@ Otherwise:
   
 That's it! If you want a grim reminder to bring you back down to earth, try this:
 
-  Death.iminent?
+  Death.imminent?
   
 That should keep you in check. Have fun!
 

@@ -1,7 +1,7 @@
 class You
   class << self
     def awesome?
-      Death.iminent?
+      Death.imminent?
     end
   end
 end
